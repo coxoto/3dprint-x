@@ -20,7 +20,7 @@
 #### design
 所有零件采用freecad设计 这边是freecad的源文件 （如有遗漏请去b站留言
 
-#### non-print parts list
+#### non-print-parts 
 所有非打印件的列表 详情等
 也可参考b站视频
 
