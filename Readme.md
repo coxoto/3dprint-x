@@ -28,7 +28,7 @@
 
 B站 系列视频列表：
 
-详解01：非打印件介绍
+详解01：非打印件介绍 https://www.bilibili.com/video/BV1SP4y157EU
 
 详解02：打印件
 
