@@ -6,6 +6,11 @@
 
 如何安装请在b站搜索 代号x 3d打印机 有全套安装详解视频 后面有视频列表（如不全说明还在准备中）
 
+![](./non-print-parts/main01.jpg)
+![](./non-print-parts/main02.jpg)
+![](./non-print-parts/pic01.jpg)
+![](./non-print-parts/pic02.jpg)
+![](./non-print-parts/stls.jpg)
 
 ## 目录介绍
 
